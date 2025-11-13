@@ -16,7 +16,7 @@ In brief, mice with INS-1 (rat PanNET cell line) xenografts were treated with ve
 
 The resulting alignments were provided as `.bam` files with corresponding sample names.
 
-## General worklow
+## General workflow
 
 - Acquire .bam files and the corresponding gene annotation (.gtf) file.
 
